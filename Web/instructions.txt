@@ -1,6 +1,5 @@
 UpdateDownload=https://raw.githubusercontent.com/SirJosh3917/SeSet/master/Web/update_vtest.zip
 ChangelogDownload=https://raw.githubusercontent.com/SirJosh3917/SeSet/master/Web/changelog.txt
 
-ForceUpdate=true for all but special
-LatestVersion=test
-
+ForceUpdate=false
+LatestVersion=1.0.0
