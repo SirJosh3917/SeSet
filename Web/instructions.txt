@@ -1,0 +1,4 @@
+UpdateDownload=
+ChangelogDownload=
+
+ForceUpdate=true for bugtest
