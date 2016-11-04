@@ -1,4 +1,4 @@
-UpdateDownload=https://raw.githubusercontent.com/SirJosh3917/SeSet/master/Web/update_vtest.zip
+UpdateDownload=https://raw.githubusercontent.com/SirJosh3917/SeSet/master/Web/update_v1-0-0.zip
 ChangelogDownload=https://raw.githubusercontent.com/SirJosh3917/SeSet/master/Web/changelog.txt
 
 ForceUpdate=false

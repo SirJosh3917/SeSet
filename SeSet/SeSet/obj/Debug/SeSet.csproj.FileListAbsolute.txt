@@ -1,0 +1,12 @@
+c:\users\newlife.owner-pc\documents\visual studio 2013\Projects\SeSet\SeSet\bin\Debug\SeSet.exe.config
+c:\users\newlife.owner-pc\documents\visual studio 2013\Projects\SeSet\SeSet\bin\Debug\SeSet.exe
+c:\users\newlife.owner-pc\documents\visual studio 2013\Projects\SeSet\SeSet\bin\Debug\SeSet.pdb
+c:\users\newlife.owner-pc\documents\visual studio 2013\Projects\SeSet\SeSet\obj\Debug\SeSet.csprojResolveAssemblyReference.cache
+c:\users\newlife.owner-pc\documents\visual studio 2013\Projects\SeSet\SeSet\obj\Debug\SeSet.Form1.resources
+c:\users\newlife.owner-pc\documents\visual studio 2013\Projects\SeSet\SeSet\obj\Debug\SeSet.Properties.Resources.resources
+c:\users\newlife.owner-pc\documents\visual studio 2013\Projects\SeSet\SeSet\obj\Debug\SeSet.csproj.GenerateResource.Cache
+c:\users\newlife.owner-pc\documents\visual studio 2013\Projects\SeSet\SeSet\obj\Debug\SeSet.exe
+c:\users\newlife.owner-pc\documents\visual studio 2013\Projects\SeSet\SeSet\obj\Debug\SeSet.pdb
+c:\users\newlife.owner-pc\documents\visual studio 2013\Projects\SeSet\SeSet\bin\Debug\PlayerIOClient.dll
+c:\users\newlife.owner-pc\documents\visual studio 2013\Projects\SeSet\SeSet\bin\Debug\PlayerIOClient.xml
+c:\users\newlife.owner-pc\documents\visual studio 2013\Projects\SeSet\SeSet\obj\Debug\SeSet.Updater.resources
