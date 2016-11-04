@@ -3,3 +3,4 @@ ChangelogDownload=https://raw.githubusercontent.com/SirJosh3917/SeSet/master/Web
 
 ForceUpdate=true for bugtest
 LatestVersion=test
+
