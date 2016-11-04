@@ -2,3 +2,4 @@ UpdateDownload=https://raw.githubusercontent.com/SirJosh3917/SeSet/master/Web/up
 ChangelogDownload=https://raw.githubusercontent.com/SirJosh3917/SeSet/master/Web/changelog.txt
 
 ForceUpdate=true for bugtest
+LatestVersion=test
